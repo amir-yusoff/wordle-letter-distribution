@@ -15,7 +15,7 @@ Word/Answer key: https://www.powerlanguage.co.uk/wordle/main.e65ce0a5.js
 
 ## Top 10 Letters Used
 
-![Most frequently used letters in Wordle Answers](https://github.com/amir-yusoff/wordle-letter-distribution/blob/master/TheDistribution.png?raw=true)
+![Most frequently used letters in Wordle Answers](https://raw.githubusercontent.com/amir-yusoff/wordle-letter-distribution/main/TheDistribution.png)
 
 ## TIPS
 
